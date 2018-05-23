@@ -1,0 +1,15 @@
+{
+  "isbn" : "9780080568782",
+  "title" : "TCP/IP Sockets in Java",
+  "subtitle" : "Practical Guide for Programmers",
+  "publisher" : "Morgan Kaufmann",
+  "publishedDate" : 1314568800000,
+  "description" : "The networking capabilities of the Java platform have been extended considerably since the first edition of the book.",
+  "pageCount" : 192,
+  "thumbnailUrl" : "http://books.google.com/books/content?id=lfHo7uMk7r4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+  "language" : "en",
+  "previewLink" : "http://books.google.pl/books?id=lfHo7uMk7r4C&printsec=frontcover&dq=java&hl=&cd=38&source=gbs_api",
+  "averageRating" : 4.0,
+  "authors" : [ "Kenneth L. Calvert", "Michael J. Donahoo" ],
+  "categories" : [ "Computers" ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "isbn" : "9780471721260",
+    "title" : "Concurrent and Distributed Computing in Java",
+    "publisher" : "John Wiley & Sons",
+    "publishedDate" : 1106866800000,
+    "description" : "Concurrent and Distributed Computing in Java addresses fundamental concepts in concurrent computing with Java examples.",
+    "pageCount" : 336,
+    "thumbnailUrl" : "http://books.google.com/books/content?id=2pKCnc6-UAEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language" : "en",
+    "previewLink" : "http://books.google.pl/books?id=2pKCnc6-UAEC&printsec=frontcover&dq=java&hl=&cd=36&source=gbs_api",
+    "authors" : [ "Vijay K. Garg" ],
+    "categories" : [ "Computers", "Science" ]
+  },
+  {
+    "isbn" : "9780071606325",
+    "title" : "Java, A Beginner's Guide, 5th Edition",
+    "publisher" : "McGraw Hill Professional",
+    "publishedDate" : 1313445600000,
+    "description" : "Essential Skills--Made Easy! Learn the fundamentals of Java programming in no time from bestselling programming author Herb Schildt.",
+    "pageCount" : 640,
+    "thumbnailUrl" : "http://books.google.com/books/content?id=L7HoaI4yyREC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language" : "en",
+    "previewLink" : "http://books.google.pl/books?id=L7HoaI4yyREC&q=java&dq=java&hl=&cd=23&source=gbs_api",
+    "authors" : [ "Herbert Schildt" ],
+    "categories" : [ "Computers" ]
+  },
+  {
+    "isbn" : "9781575211534",
+    "title" : "Java unleashed",
+    "publishedDate" : 820450800000,
+    "pageCount" : 971,
+    "thumbnailUrl" : "http://books.google.com/books/content?id=w7BmPTFgBXIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language" : "en",
+    "previewLink" : "http://books.google.pl/books?id=w7BmPTFgBXIC&q=java&dq=java&hl=&cd=31&source=gbs_api",
+    "authors" : [ ],
+    "categories" : [ "Computers", "Java" ]
+  },
+  {
+    "isbn" : "9781119235583",
+    "title" : "Java For Dummies",
+    "publisher" : "John Wiley & Sons",
+    "publishedDate" : 1488841200000,
+    "description" : "A new edition of the bestselling guide to Java If you want to learn to speak the world’s most popular programming language like a native, Java For Dummies is your ideal companion.",
+    "pageCount" : 504,
+    "thumbnailUrl" : "http://books.google.com/books/content?id=8y9MDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language" : "en",
+    "previewLink" : "http://books.google.pl/books?id=8y9MDgAAQBAJ&printsec=frontcover&dq=java&hl=&cd=20&source=gbs_api",
+    "authors" : [ "Barry A. Burd" ],
+    "categories" : [ "Dummies", "Computers" ]
+  },
+  {
+    "isbn" : "9781592730056",
+    "title" : "Developing Games in Java",
+    "publisher" : "New Riders",
+    "publishedDate" : 1072911600000,
+    "description" : "A guide to Java game programming techniques covers such topics as 2D and 3D graphics, sound, artificial intelligence, multi-player games, collision detection, game scripting and customizing keyboard and mouse controls.",
+    "pageCount" : 972,
+    "thumbnailUrl" : "http://books.google.com/books/content?id=7S4ZpTR0DGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language" : "en",
+    "previewLink" : "http://books.google.pl/books?id=7S4ZpTR0DGwC&printsec=frontcover&dq=java&hl=&cd=32&source=gbs_api",
+    "authors" : [ "David Brackeen", "Bret Barker", "Laurence Vanhelsuwé" ],
+      "categories" : [ "Computers" ]
+  }
+]
