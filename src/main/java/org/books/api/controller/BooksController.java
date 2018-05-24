@@ -1,12 +1,13 @@
 package org.books.api.controller;
 
 
-import org.books.api.model.AuthorRate;
 import org.books.api.model.Book;
-import org.springframework.http.MediaType;
+import org.books.api.repository.BookRepository;
+import org.books.error.ResultsNotFoundException;
+import org.books.utils.JsonGetMapping;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
@@ -15,23 +16,18 @@ import java.util.List;
 @RequestMapping("/api")
 public class BooksController {
 
+    @Autowired
+    private BookRepository bookRepository;
 
-    @RequestMapping(value = "/book/{isbn}", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-    public Book getBook(@PathVariable("isbn") String isbn){
-        return null;
+
+    @JsonGetMapping("/book/{isbn}")
+    public Book getBookByIsbn(@PathVariable("isbn") String isbn) throws ResultsNotFoundException {
+        return bookRepository.getBookByIsbn(isbn);
     }
 
-
-    @RequestMapping(value = "/category/{categoryName}/books", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
+    @JsonGetMapping("/category/{categoryName}/books")
     public List<Book> getBooksByCategory(@PathVariable("categoryName") String categoryName){
-        return null;
+        return bookRepository.getBooksByCategory(categoryName);
     }
-
-
-    @RequestMapping(value = "/rating", method = RequestMethod.GET, produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<AuthorRate> getAuthorsRating(){
-        return null;
-    }
-
 
 }

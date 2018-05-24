@@ -1,0 +1,532 @@
+{
+  "requestedUrl": "changed data for testing",
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "87totx4p3ZcC",
+      "etag": "LfbxF8El8mw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/87totx4p3ZcC",
+      "volumeInfo": {
+        "title": "Java in a Time of Revolution",
+        "subtitle": "Occupation and Resistance, 1944-1946",
+        "authors": [
+          "Benedict Anderson"
+        ],
+        "publisher": "Equinox Publishing",
+        "publishedDate": "2005-12-01",
+        "description": "With remarkable scope and in scrupulous detail, Professor Anderson analyzes the Indonesian revolution of 1945. Against the background of Javanese culture and the Japanese occupation, he explores the origins of the revolutionary youth groups, the military, and the political parties to challenge conventional interpretations of revolutionary movements in Asia. The author emphasizes that the critical role in the outbreak was played not by the dissatisfied intellectuals or by an oppressed working class but by the youth of Indonesia. Perhaps most important are the insights he offers into the conflict between strategies for seeking national revolution and those for attaining social change. By giving first priority to gaining recognition of Indonesian sovereignty from the outside world, he argues, the revolutionary leadership had to adopt conservative domestic policies that greatly reduced the possibility of far-reaching social reform. This in-depth study of the independence crisis in Indonesia, brought back to life by Equinox Publishing as the first title in it's Classic Indonesia series, also illuminates the revolutionary process in other nations, where wars for independence have been fought but significant social and economic progress has not yet been achieved. ABOUT THE AUTHOR Benedict Anderson is one of the world's leading authorities on South East Asian nationalism and particularly on Indonesia. He is Professor of International Studies and Director of the Modern Indonesia Project at Cornell University, New York. His other works include Imagined Communities: Reflections on the Origin and Spread of Nationalism and The Spectre of Comparisons: Nationalism, Southeast Asia, and the World.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789793780146"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9793780142"
+          }
+        ],
+        "averageRating": 4.1,
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 494,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=87totx4p3ZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=87totx4p3ZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=87totx4p3ZcC&printsec=frontcover&dq=java&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=87totx4p3ZcC&dq=java&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Java_in_a_Time_of_Revolution.html?hl=&id=87totx4p3ZcC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Java_in_a_Time_of_Revolution-sample-epub.acsm?id=87totx4p3ZcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=87totx4p3ZcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ABOUT THE AUTHOR Benedict Anderson is one of the world&#39;s leading authorities on South East Asian nationalism and particularly on Indonesia."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7y4BwAAQBAJ",
+      "etag": "tahZ0y64rWc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7y4BwAAQBAJ",
+      "volumeInfo": {
+        "title": "Natural Language Processing with Java",
+        "authors": [
+          "Richard M Reese"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2015-03-27",
+        "description": "If you are a Java programmer who wants to learn about the fundamental tasks underlying natural language processing, this book is for you. You will be able to identify and use NLP tasks for many common problems, and integrate them in your applications to solve more difficult problems. Readers should be familiar/experienced with Java software development.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781784398941"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1784398942"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q7y4BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q7y4BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=q7y4BwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q7y4BwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-q7y4BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 134.35,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 94.04,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q7y4BwAAQBAJ&rdid=book-q7y4BwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.3435E8,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 9.404E7,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7y4BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you are a Java programmer who wants to learn about the fundamental tasks underlying natural language processing, this book is for you."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mVNjAgAAQBAJ",
+      "etag": "8j6ZmVPc6wA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mVNjAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Java. Techniki zaawansowane. Wydanie IX",
+        "authors": [
+          "Cay S. Horstmann",
+          "Gary Cornell"
+        ],
+        "publisher": "Helion",
+        "publishedDate": "2013-12-09",
+        "description": "Dziewiąte wydanie bestsellerowej pozycji Java. Techniki zaawansowane zostało zaktualizowane i uzupełnione o nowinki z najnowszej wersji języka Java oznaczonej numerem 7. W trakcie lektury dowiesz się, jak wydajnie korzystać ze strumieni, wyrażeń regularnych oraz baz danych. Java 7 to całkowicie nowy, mocno rozbudowany dostęp do plików opis wszystkich niuansów znajdziesz w tej publikacji. Co jeszcze? Tworzenie aplikacji dla różnych języków i lokalizacji, zaawansowane wykorzystanie biblioteki Swing oraz dystrybucja stworzonych aplikacji. To tylko niektóre z zagadnień poruszonych w tej wyjątkowej książce, która musi się znaleźć na półce każdego programisty języka Java.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788324677658"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8324677658"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 992,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mVNjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mVNjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=mVNjAgAAQBAJ&printsec=frontcover&dq=java&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mVNjAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-mVNjAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 119.0,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 83.3,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mVNjAgAAQBAJ&rdid=book-mVNjAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.19E8,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 8.33E7,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Java_Techniki_zaawansowane_Wydanie_IX-sample-epub.acsm?id=mVNjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Java_Techniki_zaawansowane_Wydanie_IX-sample-pdf.acsm?id=mVNjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mVNjAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dziewiąte wydanie bestsellerowej pozycji Java."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UEdjAgAAQBAJ",
+      "etag": "qj4YWZpSsGE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UEdjAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Java. Podstawy. Wydanie IX",
+        "authors": [
+          "Cay S. Horstmann",
+          "Gary Cornell",
+          "Sir Thomas Stamford Raffles"
+        ],
+        "publisher": "Helion",
+        "publishedDate": "2013-12-09",
+        "description": "Kolejne wydanie tej cenionej książki zostało zaktualizowane o wszystkie nowości, które pojawiły się w wersji 7 platformy Java Standard Edition. W trakcie lektury poznasz składnię języka oraz wszystkie istotne kwestie związane z programowaniem w Javie. Zrozumiesz założenia programowania obiektowego, nauczysz się korzystać z interfejsów oraz obsługiwać wyjątki. Przekonasz się również, jakie ułatwienia w tym zakresie oferuje Java 7 obsługa wielu wyjątków w ramach jednego bloku catch to tylko czubek góry lodowej.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788324677610"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8324677615"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 864,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.4.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UEdjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UEdjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.pl/books?id=UEdjAgAAQBAJ&pg=PA852&dq=java&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UEdjAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-UEdjAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 79.0,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 55.3,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UEdjAgAAQBAJ&rdid=book-UEdjAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7.9E7,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 5.53E7,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Java_Podstawy_Wydanie_IX-sample-epub.acsm?id=UEdjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/Java_Podstawy_Wydanie_IX-sample-pdf.acsm?id=UEdjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UEdjAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "jogging.properties, 594 LinkedListTest.\u003cb\u003ejava\u003c/b\u003e, 681 LoggingImageViewer.\u003cb\u003ejava\u003c/b\u003e, 602 \u003cbr\u003e\nLotteryArray.\u003cb\u003ejava\u003c/b\u003e, 128 LotteryDrawing.\u003cb\u003ejava\u003c/b\u003e, 121 LotteryOdds.\u003cb\u003ejava\u003c/b\u003e, 108 Manager.\u003cbr\u003e\n\u003cb\u003ejava\u003c/b\u003e, 206, 232 ManagerTest.\u003cb\u003ejava\u003c/b\u003e, 204 MANIFEST.MF, 512 manifestu klasa&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lfHo7uMk7r4C",
+      "etag": "I1SkOeErsl8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lfHo7uMk7r4C",
+      "volumeInfo": {
+        "title": "TCP/IP Sockets in Java",
+        "subtitle": "Practical Guide for Programmers",
+        "authors": [
+          "Kenneth L. Calvert",
+          "Michael J. Donahoo"
+        ],
+        "publisher": "Morgan Kaufmann",
+        "publishedDate": "2011-08-29",
+        "description": "The networking capabilities of the Java platform have been extended considerably since the first edition of the book. This new edition covers version 1.5-1.7, the most current iterations, as well as making the following improvements: The API (application programming interface) reference sections in each chapter, which describe the relevant parts of each class, have been replaced with (i) a summary section that lists the classes and methods used in the code, and (ii) a \"gotchas\" section that mentions nonobvious or poorly-documented aspects of the objects. In addition, the book covers several new classes and capabilities introduced in the last few revisions of the Java platform. New abstractions to be covered include NetworkInterface, InterfaceAddress, Inet4/6Address, SocketAddress/InetSocketAddress, Executor, and others; extended access to low-level network information; support for IPv6; more complete access to socket options; and scalable I/O. The example code is also modified to take advantage of new language features such as annotations, enumerations, as well as generics and implicit iterators where appropriate. Most Internet applications use sockets to implement network communication protocols. This book's focused, tutorial-based approach helps the reader master the tasks and techniques essential to virtually all client-server projects using sockets in Java. Chapter 1 provides a general overview of networking concepts to allow readers to synchronize the concepts with terminology. Chapter 2 introduces the mechanics of simple clients and servers. Chapter 3 covers basic message construction and parsing. Chapter 4 then deals with techniques used to build more robust clients and servers. Chapter 5 (NEW) introduces the scalable interface facilities which were introduced in Java 1.5, including the buffer and channel abstractions. Chapter 6 discusses the relationship between the programming constructs and the underlying protocol implementations in more detail. Programming concepts are introduced through simple program examples accompanied by line-by-line code commentary that describes the purpose of every part of the program. No other resource presents so concisely or so effectively the material necessary to get up and running with Java sockets programming. Focused, tutorial-based instruction in key sockets programming techniques allows reader to quickly come up to speed on Java applications. Concise and up-to-date coverage of the most recent platform (1.7) for Java applications in networking technology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0080568785"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780080568782"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.0,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lfHo7uMk7r4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lfHo7uMk7r4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=lfHo7uMk7r4C&printsec=frontcover&dq=java&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lfHo7uMk7r4C&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-lfHo7uMk7r4C"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 126.58,
+          "currencyCode": "PLN"
+        },
+        "retailPrice": {
+          "amount": 88.61,
+          "currencyCode": "PLN"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lfHo7uMk7r4C&rdid=book-lfHo7uMk7r4C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1.2658E8,
+              "currencyCode": "PLN"
+            },
+            "retailPrice": {
+              "amountInMicros": 8.861E7,
+              "currencyCode": "PLN"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/TCP_IP_Sockets_in_Java-sample-epub.acsm?id=lfHo7uMk7r4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.pl/books/download/TCP_IP_Sockets_in_Java-sample-pdf.acsm?id=lfHo7uMk7r4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lfHo7uMk7r4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book&#39;s focused, tutorial-based approach helps the reader master the tasks and techniques essential to virtually all client-server projects using sockets in Java."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gJEC2q7DzpQC",
+      "etag": "HdUu/xRk5hw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gJEC2q7DzpQC",
+      "volumeInfo": {
+        "title": "The History of Java",
+        "authors": [
+          "Sir Thomas Stamford Raffles"
+        ],
+        "publishedDate": "1830",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044021066998"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 868,
+        "printType": "BOOK",
+        "categories": [
+          "Java (Indonesia)"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=gJEC2q7DzpQC&printsec=frontcover&dq=java&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-gJEC2q7DzpQC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&rdid=book-gJEC2q7DzpQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_History_of_Java.epub?id=gJEC2q7DzpQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_History_of_Java.pdf?id=gJEC2q7DzpQC&hl=&output=pdf&sig=ACfU3U1FeZs0WwTQ2Z_X_IqhvzCelUN01A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gJEC2q7DzpQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

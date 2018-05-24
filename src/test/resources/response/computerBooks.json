@@ -1,65 +1,82 @@
 [
   {
-    "isbn" : "9780471721260",
-    "title" : "Concurrent and Distributed Computing in Java",
-    "publisher" : "John Wiley & Sons",
-    "publishedDate" : 1106866800000,
-    "description" : "Concurrent and Distributed Computing in Java addresses fundamental concepts in concurrent computing with Java examples.",
-    "pageCount" : 336,
-    "thumbnailUrl" : "http://books.google.com/books/content?id=2pKCnc6-UAEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language" : "en",
-    "previewLink" : "http://books.google.pl/books?id=2pKCnc6-UAEC&printsec=frontcover&dq=java&hl=&cd=36&source=gbs_api",
-    "authors" : [ "Vijay K. Garg" ],
-    "categories" : [ "Computers", "Science" ]
+    "isbn":"9781784398941",
+    "title":"Natural Language Processing with Java",
+    "subtitle":null,
+    "publisher":"Packt Publishing Ltd",
+    "publishedDate":1427410800000,
+    "description":"If you are a Java programmer who wants to learn about the fundamental tasks underlying natural language processing, this book is for you. You will be able to identify and use NLP tasks for many common problems, and integrate them in your applications to solve more difficult problems. Readers should be familiar/experienced with Java software development.",
+    "pageCount":262,
+    "thumbnailUrl":"http://books.google.com/books/content?id=q7y4BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language":"en",
+    "previewLink":"http://books.google.pl/books?id=q7y4BwAAQBAJ&printsec=frontcover&dq=java&hl=&cd=2&source=gbs_api",
+    "averageRating":null,
+    "authors":[
+      "Richard M Reese"
+    ],
+    "categories":[
+      "Computers"
+    ]
   },
   {
-    "isbn" : "9780071606325",
-    "title" : "Java, A Beginner's Guide, 5th Edition",
-    "publisher" : "McGraw Hill Professional",
-    "publishedDate" : 1313445600000,
-    "description" : "Essential Skills--Made Easy! Learn the fundamentals of Java programming in no time from bestselling programming author Herb Schildt.",
-    "pageCount" : 640,
-    "thumbnailUrl" : "http://books.google.com/books/content?id=L7HoaI4yyREC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language" : "en",
-    "previewLink" : "http://books.google.pl/books?id=L7HoaI4yyREC&q=java&dq=java&hl=&cd=23&source=gbs_api",
-    "authors" : [ "Herbert Schildt" ],
-    "categories" : [ "Computers" ]
+    "isbn":"9788324677658",
+    "title":"Java. Techniki zaawansowane. Wydanie IX",
+    "subtitle":null,
+    "publisher":"Helion",
+    "publishedDate":1386543600000,
+    "description":"Dziewiąte wydanie bestsellerowej pozycji Java. Techniki zaawansowane zostało zaktualizowane i uzupełnione o nowinki z najnowszej wersji języka Java oznaczonej numerem 7. W trakcie lektury dowiesz się, jak wydajnie korzystać ze strumieni, wyrażeń regularnych oraz baz danych. Java 7 to całkowicie nowy, mocno rozbudowany dostęp do plików opis wszystkich niuansów znajdziesz w tej publikacji. Co jeszcze? Tworzenie aplikacji dla różnych języków i lokalizacji, zaawansowane wykorzystanie biblioteki Swing oraz dystrybucja stworzonych aplikacji. To tylko niektóre z zagadnień poruszonych w tej wyjątkowej książce, która musi się znaleźć na półce każdego programisty języka Java.",
+    "pageCount":992,
+    "thumbnailUrl":"http://books.google.com/books/content?id=mVNjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language":"pl",
+    "previewLink":"http://books.google.pl/books?id=mVNjAgAAQBAJ&printsec=frontcover&dq=java&hl=&cd=3&source=gbs_api",
+    "averageRating":null,
+    "authors":[
+      "Cay S. Horstmann",
+      "Gary Cornell"
+    ],
+    "categories":[
+      "Computers"
+    ]
   },
   {
-    "isbn" : "9781575211534",
-    "title" : "Java unleashed",
-    "publishedDate" : 820450800000,
-    "pageCount" : 971,
-    "thumbnailUrl" : "http://books.google.com/books/content?id=w7BmPTFgBXIC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language" : "en",
-    "previewLink" : "http://books.google.pl/books?id=w7BmPTFgBXIC&q=java&dq=java&hl=&cd=31&source=gbs_api",
-    "authors" : [ ],
-    "categories" : [ "Computers", "Java" ]
+    "isbn":"9788324677610",
+    "title":"Java. Podstawy. Wydanie IX",
+    "subtitle":null,
+    "publisher":"Helion",
+    "publishedDate":1386543600000,
+    "description":"Kolejne wydanie tej cenionej książki zostało zaktualizowane o wszystkie nowości, które pojawiły się w wersji 7 platformy Java Standard Edition. W trakcie lektury poznasz składnię języka oraz wszystkie istotne kwestie związane z programowaniem w Javie. Zrozumiesz założenia programowania obiektowego, nauczysz się korzystać z interfejsów oraz obsługiwać wyjątki. Przekonasz się również, jakie ułatwienia w tym zakresie oferuje Java 7 obsługa wielu wyjątków w ramach jednego bloku catch to tylko czubek góry lodowej.",
+    "pageCount":864,
+    "thumbnailUrl":"http://books.google.com/books/content?id=UEdjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language":"pl",
+    "previewLink":"http://books.google.pl/books?id=UEdjAgAAQBAJ&pg=PA852&dq=java&hl=&cd=4&source=gbs_api",
+    "averageRating":4.2,
+    "authors":[
+      "Cay S. Horstmann",
+      "Gary Cornell",
+      "Sir Thomas Stamford Raffles"
+    ],
+    "categories":[
+      "Computers"
+    ]
   },
   {
-    "isbn" : "9781119235583",
-    "title" : "Java For Dummies",
-    "publisher" : "John Wiley & Sons",
-    "publishedDate" : 1488841200000,
-    "description" : "A new edition of the bestselling guide to Java If you want to learn to speak the world’s most popular programming language like a native, Java For Dummies is your ideal companion.",
-    "pageCount" : 504,
-    "thumbnailUrl" : "http://books.google.com/books/content?id=8y9MDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language" : "en",
-    "previewLink" : "http://books.google.pl/books?id=8y9MDgAAQBAJ&printsec=frontcover&dq=java&hl=&cd=20&source=gbs_api",
-    "authors" : [ "Barry A. Burd" ],
-    "categories" : [ "Dummies", "Computers" ]
-  },
-  {
-    "isbn" : "9781592730056",
-    "title" : "Developing Games in Java",
-    "publisher" : "New Riders",
-    "publishedDate" : 1072911600000,
-    "description" : "A guide to Java game programming techniques covers such topics as 2D and 3D graphics, sound, artificial intelligence, multi-player games, collision detection, game scripting and customizing keyboard and mouse controls.",
-    "pageCount" : 972,
-    "thumbnailUrl" : "http://books.google.com/books/content?id=7S4ZpTR0DGwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language" : "en",
-    "previewLink" : "http://books.google.pl/books?id=7S4ZpTR0DGwC&printsec=frontcover&dq=java&hl=&cd=32&source=gbs_api",
-    "authors" : [ "David Brackeen", "Bret Barker", "Laurence Vanhelsuwé" ],
-      "categories" : [ "Computers" ]
+    "isbn":"9780080568782",
+    "title":"TCP/IP Sockets in Java",
+    "subtitle":"Practical Guide for Programmers",
+    "publisher":"Morgan Kaufmann",
+    "publishedDate":1314568800000,
+    "description":"The networking capabilities of the Java platform have been extended considerably since the first edition of the book. This new edition covers version 1.5-1.7, the most current iterations, as well as making the following improvements: The API (application programming interface) reference sections in each chapter, which describe the relevant parts of each class, have been replaced with (i) a summary section that lists the classes and methods used in the code, and (ii) a \"gotchas\" section that mentions nonobvious or poorly-documented aspects of the objects. In addition, the book covers several new classes and capabilities introduced in the last few revisions of the Java platform. New abstractions to be covered include NetworkInterface, InterfaceAddress, Inet4/6Address, SocketAddress/InetSocketAddress, Executor, and others; extended access to low-level network information; support for IPv6; more complete access to socket options; and scalable I/O. The example code is also modified to take advantage of new language features such as annotations, enumerations, as well as generics and implicit iterators where appropriate. Most Internet applications use sockets to implement network communication protocols. This book's focused, tutorial-based approach helps the reader master the tasks and techniques essential to virtually all client-server projects using sockets in Java. Chapter 1 provides a general overview of networking concepts to allow readers to synchronize the concepts with terminology. Chapter 2 introduces the mechanics of simple clients and servers. Chapter 3 covers basic message construction and parsing. Chapter 4 then deals with techniques used to build more robust clients and servers. Chapter 5 (NEW) introduces the scalable interface facilities which were introduced in Java 1.5, including the buffer and channel abstractions. Chapter 6 discusses the relationship between the programming constructs and the underlying protocol implementations in more detail. Programming concepts are introduced through simple program examples accompanied by line-by-line code commentary that describes the purpose of every part of the program. No other resource presents so concisely or so effectively the material necessary to get up and running with Java sockets programming. Focused, tutorial-based instruction in key sockets programming techniques allows reader to quickly come up to speed on Java applications. Concise and up-to-date coverage of the most recent platform (1.7) for Java applications in networking technology.",
+    "pageCount":192,
+    "thumbnailUrl":"http://books.google.com/books/content?id=lfHo7uMk7r4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language":"en",
+    "previewLink":"http://books.google.pl/books?id=lfHo7uMk7r4C&printsec=frontcover&dq=java&hl=&cd=18&source=gbs_api",
+    "averageRating":4.0,
+    "authors":[
+      "Kenneth L. Calvert",
+      "Michael J. Donahoo"
+    ],
+    "categories":[
+      "Computers"
+    ]
   }
 ]

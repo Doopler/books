@@ -1,14 +1,26 @@
 [
   {
-    "author": "Nell B. Dale",
-    "averageRating": 4.1
+    "author":"Sir Thomas Stamford Raffles",
+    "averageRating":4.35
   },
   {
-    "author": "John Doe",
-    "averageRating": 3.0
+    "author":"Gary Cornell",
+    "averageRating":4.2
   },
   {
-    "author": "Jim Smith",
-    "averageRating": 2.9
+    "author":"Cay S. Horstmann",
+    "averageRating":4.2
+  },
+  {
+    "author":"Benedict Anderson",
+    "averageRating":4.1
+  },
+  {
+    "author":"Michael J. Donahoo",
+    "averageRating":4.0
+  },
+  {
+    "author":"Kenneth L. Calvert",
+    "averageRating":4.0
   }
 ]

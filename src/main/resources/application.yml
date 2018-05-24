@@ -1,0 +1,10 @@
+spring:
+  profiles: test
+
+booksPath: "src/test/resources/reference/books.json"
+
+---
+spring:
+  profiles:
+
+booksPath: "src/main/resources/data/books.json"
