@@ -1,5 +1,6 @@
 package org.books.api.model;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.books.google.model.VolumeInfo;
@@ -7,6 +8,7 @@ import org.books.google.model.VolumeInfo;
 import java.util.List;
 
 @Data
+@JsonInclude(JsonInclude.Include.NON_NULL)
 @NoArgsConstructor
 public class Book {
 
