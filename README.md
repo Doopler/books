@@ -17,7 +17,7 @@ and following parameter is have to be defined
 spring:
   profiles:
 
-booksPath: "path to book.js file"
+booksPath: "path to books.js file"
 ```
 
 ##Build
